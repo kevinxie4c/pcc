@@ -1,0 +1,3 @@
+cl /c /MD /GS- io.cpp /I ..\include
+ml /c /coff scanf.asm
+link scanf.obj io.obj

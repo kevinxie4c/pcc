@@ -1,0 +1,15 @@
+identifier b
+operator *
+identifier c
+operator +
+identifier d
+operator /
+identifier e
+operator *
+operator (
+identifier f
+operator +
+identifier g
+operator )
+operator -
+identifier h

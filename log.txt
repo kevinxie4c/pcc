@@ -1,0 +1,36 @@
+a +12 char 0
+b +16 char 0
+c +20 char 0
+n +8 int 0
+n -4 int 0
+PutIntLn int 0
+int 0
+PutCharLn int 0
+operator ) test_files\hanoi.c 10
+ 0
+main int 0
+ 
+GetString int 0
+char 1
+PutString int 0
+operator ) test_files\hanoi.c 9
+ 1
+PutChar int 0
+operator ) test_files\hanoi.c 8
+ 0
+StringLength int 0
+char 1
+hanoi int 0
+operator , test_files\hanoi.c 21
+ operator , test_files\hanoi.c 21
+ operator , test_files\hanoi.c 21
+ operator ) test_files\hanoi.c 21
+ 0 0 0 0
+PutInt int 0
+int 0
+GetChar char 0
+ 
+GetInt int 0
+ 
+PutStringLn int 0
+char 1

@@ -1,0 +1,10 @@
+int GetString(char *s);
+int StringLength(char *s);
+int PutString(char *s);
+char GetChar();
+int PutChar(char c);
+int GetInt();
+int PutInt(int i);
+int PutStringLn(char *s);
+int PutCharLn(char c);
+int PutIntLn(int i);
